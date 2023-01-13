@@ -1,5 +1,5 @@
 {
-  "name": "manage",
+  "name": "manage_app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rose1845/tailwind_css.git"
+    "url": "git+https://github.com/Rose1845/manage_app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rose1845/tailwind_css/issues"
+    "url": "https://github.com/Rose1845/manage_app/issues"
   },
-  "homepage": "https://github.com/Rose1845/tailwind_css#readme",
+  "homepage": "https://github.com/Rose1845/manage_app#readme",
   "devDependencies": {
     "tailwindcss": "^3.1.8"
   }
